@@ -1,12 +1,14 @@
 ---
-layout: page
-title: About
+title: My first blog article : Introduction
+updated: 2018-01-24 15:56
 ---
+
+### Who am I?
 
 Hello.
 
 I am **Abhinav Tiwari**. 
-I am Currently working as Software Engineer Trainee at Navyug Infosolutions, Noida. In my spare time, I like to practice problem solving on different online coding platforms like *CodeChef, HackerRank, HackerEarth, Spoj* or 
+I am Currently working as Software Engineer Trainee at Navyug Infosolutions, Noida. In my spare time, I like to practice problem solving on different online coding platforms like CodeChef, HackerRank, HackerEarth, Spoj or 
 Read about Data Strucures, Algorithms, Web Development and Productivity on GeeksforGeeks, Codeburst or Medium.
 
 Some of my coding platform profiles and my work can be accesses here:
