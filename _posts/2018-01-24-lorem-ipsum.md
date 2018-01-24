@@ -23,7 +23,7 @@ Some of my coding platform profiles and my work can be accesses here:
 ## Work Experience:
 I have worked on three different internships till now.
 
-* **Navyug Infosolutions:** *July 2017 - Jan 2018*
+**Navyug Infosolutions:** *July 2017 - Jan 2018*
     * Created Work from Home module into internal ERP of the
     company.
     * Improvised internal ERP application of the company by modifying
@@ -31,14 +31,14 @@ I have worked on three different internships till now.
     * Technologies: Odoo,Python, XML, PostgreSQL, HTML, Bootstrap,
     CSS, Git. Python, XML, HTML5/CSS, Bootstrap, Jinja 2 .
 
-* **Geeks For Geeks:** *July 2016 - August 2016*
+**Geeks For Geeks:** *July 2016 - August 2016*
     * Published 8 articles based on Data Structures, Algorithm and
     Programming Languages on the official website of
     geeksforgeeks.org.
     * Published an article on regex(Regular Expression) in C++ that was
     featured on the website.
 
-* **Green Amigos:** *May 2017 - June 2017*
+**Green Amigos:** *May 2017 - June 2017*
     * Responsible for designing, coding and modification of website
     greenamigos.co.in according to a client’s specifications using
     MaterializeCSS Framework.
