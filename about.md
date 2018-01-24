@@ -18,7 +18,7 @@ Some of my coding platform profiles and my work can be accesses here:
 Till now I have worked on 3 different roles as intern, most of which is based on web development. Here are the technologies that I worked on ni my different internships.
 * Navyug Infosolutions: Python, XML, HTML5/CSS, Bootstrap, Jinja 2 .
 * Geeks For Geeks: C/C++, Data Structures and Algorithm .
- Green Amigos: HTML5/CSS3, MaterializeCSS, HighchartsJS, jQuery .
+* Green Amigos: HTML5/CSS3, MaterializeCSS, HighchartsJS, jQuery .
 
 
 
