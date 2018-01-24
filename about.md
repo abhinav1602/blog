@@ -5,8 +5,8 @@ title: About
 
 Hello.
 
-I am **Abhinav Tiwari**.
-I am Currently working as Software Engineer Trainee at Navyug Infosolutions, Noida. In my spare time, I like to practice problem solving on different online coding platforms like *CodeChef, HackerRank, HackerEarth, Spoj or 
+I am **Abhinav Tiwari**. 
+I am Currently working as Software Engineer Trainee at Navyug Infosolutions, Noida. In my spare time, I like to practice problem solving on different online coding platforms like *CodeChef, HackerRank, HackerEarth, Spoj* or 
 Read about Data Strucures, Algorithms, Web Development and Productivity on GeeksforGeeks, Codeburst or Medium.
 
 Some of my coding platform profiles and my work can be accesses here:
@@ -28,6 +28,7 @@ I have worked on three different internships till now.
     Sales, Attendance, Leave and Expense modules.
     * Technologies: Odoo,Python, XML, PostgreSQL, HTML, Bootstrap,
     CSS, Git. Python, XML, HTML5/CSS, Bootstrap, Jinja 2 .
+
 
 **Geeks For Geeks:** *July 2016 - August 2016*
     * Published 8 articles based on Data Structures, Algorithm and
