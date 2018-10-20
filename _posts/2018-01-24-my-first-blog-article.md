@@ -1,12 +1,14 @@
 ---
-layout: page
-title: About
+title: My first blog article : Introduction
+updated: 2018-01-24 15:56
 ---
+
+### Who am I?
 
 Hello.
 
-I am **Abhinav Tiwari**.
-I am Currently working as Software Developer at Decision Point Analytics, Gurgaon. In my spare time, I like to practice problem solving on different online coding platforms like *CodeChef, HackerRank, HackerEarth, Spoj* or 
+I am **Abhinav Tiwari**. 
+I am Currently working as Software Engineer Trainee at Navyug Infosolutions, Noida. In my spare time, I like to practice problem solving on different online coding platforms like CodeChef, HackerRank, HackerEarth, Spoj or 
 Read about Data Strucures, Algorithms, Web Development and Productivity on GeeksforGeeks, Codeburst or Medium.
 
 Some of my coding platform profiles and my work can be accesses here:
@@ -20,37 +22,31 @@ Some of my coding platform profiles and my work can be accesses here:
 
 ## Work Experience:
 
-**Decision Point Analytics:** *Feb 2018 - Current*
-
-    * Working on Chatbots and development of Single Page Applications.
-	* Using rest services on Django for creating API endpoints.
-	* Technologies: React, Node.js, Python(Django), AngularJS, DialogFlow, 
-	  MaterializeCSS, Chart.js, Bootstrap, HTML/CSS.
 
 **Navyug Infosolutions:** *July 2017 - Jan 2018*
 
     * Created Work from Home module into internal ERP of the
-      company.
+    company.
     * Improvised internal ERP application of the company by modifying
-      Sales, Attendance, Leave and Expense modules.
+    Sales, Attendance, Leave and Expense modules.
     * Technologies: Odoo,Python, XML, PostgreSQL, HTML, Bootstrap,
-      CSS, Git. Python, XML, HTML5/CSS, Bootstrap, Jinja 2 .
+    CSS, Git. Python, XML, HTML5/CSS, Bootstrap, Jinja 2 .
 
 **Geeks For Geeks:** *July 2016 - August 2016*
 
     * Published 8 articles based on Data Structures, Algorithm and
-      Programming Languages on the official website of
-      geeksforgeeks.org.
-    * Published an article on regex(Regular Expression) in C++ that 
-      was featured on the website.
+    Programming Languages on the official website of
+    geeksforgeeks.org.
+    * Published an article on regex(Regular Expression) in C++ that was
+    featured on the website.
 
 **Green Amigos:** *May 2017 - June 2017*
 
     * Responsible for designing, coding and modification of website
-      greenamigos.co.in according to a client’s specifications using
-      MaterializeCSS Framework.
+    greenamigos.co.in according to a client’s specifications using
+    MaterializeCSS Framework.
     * Developed graphical representation pages of the statistical
-      details of the company data using HighCharts.js.
+    details of the company data using HighCharts.js.
 
 **Venturesity:** *June 2017 - June 2017*
 
