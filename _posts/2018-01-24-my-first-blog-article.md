@@ -23,6 +23,14 @@ Some of my coding platform profiles and my work can be accesses here:
 ## Work Experience:
 
 
+**Decision Point Analytics:** *Feb 2018 - Current*
+
+    * Working on Chatbots and development of Single Page Applications.
+	* Using rest services on Django for creating API endpoints.
+	* Technologies: React, Node.js, Python(Django), AngularJS, DialogFlow, 
+	  MaterializeCSS, Chart.js, Bootstrap, HTML/CSS.
+
+
 **Navyug Infosolutions:** *July 2017 - Jan 2018*
 
     * Created Work from Home module into internal ERP of the
@@ -47,3 +55,8 @@ Some of my coding platform profiles and my work can be accesses here:
     MaterializeCSS Framework.
     * Developed graphical representation pages of the statistical
     details of the company data using HighCharts.js.
+
+**Venturesity:** *June 2017 - June 2017*
+
+    * Created Multiple choice questions(MCQ) for the mobile app of Venturesity.
+    * Contributed to the database through questions in C/C++, HTML/CSS and jQuery.
