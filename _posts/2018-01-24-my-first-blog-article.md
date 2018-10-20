@@ -23,6 +23,14 @@ Some of my coding platform profiles and my work can be accesses here:
 ## Work Experience:
 
 
+**Decision Point Analytics:** *Feb 2018 - Current*
+
+    * Working on Chatbots and development of Single Page Applications.
+	* Using rest services on Django for creating API endpoints.
+	* Technologies: React, Node.js, Python(Django), AngularJS, DialogFlow, 
+	  MaterializeCSS, Chart.js, Bootstrap, HTML/CSS.
+
+
 **Navyug Infosolutions:** *July 2017 - Jan 2018*
 
     * Created Work from Home module into internal ERP of the
