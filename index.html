@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section>
-
+	
 	{% for post in site.posts %}
 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }} &#172;</h3>
@@ -29,3 +29,6 @@ layout: default
 	{% endfor %}
 
 </section>
+
+
+
