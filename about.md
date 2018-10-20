@@ -7,7 +7,7 @@ Hello.
 
 I am **Abhinav Tiwari**.
 I am Currently working as Software Developer at Decision Point Analytics, Gurgaon. In my spare time, I like to practice problem solving on different online coding platforms like *CodeChef, HackerRank, HackerEarth, Spoj* or 
-Read about Data Strucures, Algorithms, Web Development and Productivity on GeeksforGeeks, Codeburst or Medium.
+
 
 Some of my coding platform profiles and my work can be accesses here:
 * Portfolio : [abhinav1602.github.io](https://abhinav1602.github.io)
@@ -35,6 +35,7 @@ Some of my coding platform profiles and my work can be accesses here:
       Sales, Attendance, Leave and Expense modules.
     * Technologies: Odoo,Python, XML, PostgreSQL, HTML, Bootstrap,
       CSS, Git. Python, XML, HTML5/CSS, Bootstrap, Jinja 2 .
+
 
 **Geeks For Geeks:** *July 2016 - August 2016*
 
